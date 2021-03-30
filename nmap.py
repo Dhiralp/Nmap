@@ -13,8 +13,7 @@ import time
 nm_scan = nmap.PortScanner()
 print("Running....\n")
 
-#host = '172.217.20.14'
-host = '172.217.164.78'
+#host = 'xxx.xxx.xxx.xxx' ----  Use your IPaddress
 """
 If your want to use host from argument use below command
 
